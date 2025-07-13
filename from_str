@@ -1,0 +1,2 @@
+let mint_pubkey = Pubkey::from_str(mint_address).unwrap();
+
