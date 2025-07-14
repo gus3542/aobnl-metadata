@@ -1,0 +1,29 @@
+{
+  "name": "XENOZ",
+  "symbol": "XNZ",
+  "description": "XENOZ is a next-generation utility token on Solana, designed for blazing-fast transactions and a vibrant decentralized ecosystem.",
+  "seller_fee_basis_points": 500, 
+  "image": "https://placehold.co/600x600.png?text=XENOZ", 
+  "external_url": "https://xenoz-token.io", 
+  "attributes": [
+    { "trait_type": "Utility", "value": "High" },
+    { "trait_type": "Speed", "value": "Ultra-Fast" },
+    { "trait_type": "Ecosystem", "value": "Decentralized" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://placehold.co/600x600.png?text=XENOZ",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Br63cz9BVMRkgAdKkWRzzhPP6bcaoCWRnhdqqeRdYBtn",
+        "share": 100
+      }
+    ]
+  }
+}
+
