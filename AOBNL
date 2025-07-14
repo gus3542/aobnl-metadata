@@ -1,0 +1,23 @@
+{
+  "name": "AOBNL",
+  "symbol": "AOBNL",
+  "description": "AOBNL is a next-generation token on Solana, designed to bring long-term value, advanced protection mechanisms for holders, and powerful utility features to the ecosystem.",
+  "seller_fee_basis_points": 0,
+  "image": "https://solana.com/favicon.ico",
+  "external_url": "https://aobnl-token.io",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://solana.com/favicon.ico",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "J42qZPEbrh7SPkg73tCWWNPu13dsqpBTGYDBUFrf7fAd",
+        "share": 100
+      }
+    ]
+  }
+}
