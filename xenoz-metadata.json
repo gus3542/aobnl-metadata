@@ -1,29 +1,24 @@
 {
-  "name": "XENOZ",
-  "symbol": "XNZ",
-  "description": "XENOZ is a next-generation utility token on Solana, designed for blazing-fast transactions and a vibrant decentralized ecosystem.",
-  "seller_fee_basis_points": 500, 
-  "image": "https://placehold.co/600x600.png?text=XENOZ", 
-  "external_url": "https://xenoz-token.io", 
-  "attributes": [
-    { "trait_type": "Utility", "value": "High" },
-    { "trait_type": "Speed", "value": "Ultra-Fast" },
-    { "trait_type": "Ecosystem", "value": "Decentralized" }
-  ],
+  "name": "AOBNL",
+  "symbol": "AOBNL",
+  "description": "AOBNL is a Solana-based token designed for fun and power, built for long-term sustainability and innovation.",
+  "image": "https://i.supaimg.com/af3ac651-d702-42d4-ba7d-b128febe51ea.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
   "properties": {
-    "files": [
-      {
-        "uri": "https://placehold.co/600x600.png?text=XENOZ",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
     "creators": [
       {
-        "address": "Br63cz9BVMRkgAdKkWRzzhPP6bcaoCWRnhdqqeRdYBtn",
+        "address": "J42qZPEbrh7SPkg73tCWWNPu13dsqpBTGYDBUFrf7fAd",
         "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://i.supaimg.com/af3ac651-d702-42d4-ba7d-b128febe51ea.png",
+        "type": "image/png"
       }
     ]
   }
 }
+
 
