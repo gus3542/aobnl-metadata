@@ -1,0 +1,30 @@
+{
+  "name": "AOBNL",
+  "symbol": "AOBNL",
+  "description": "AOBNL - The future of decentralized finance.",
+  "image": "https://i.supaimg.com/3275ef31-f0a4-4baf-97d6-a1741ebaa425.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Utility", "value": "Governance" },
+    { "trait_type": "Supply", "value": "1 Billion" }
+  ],
+  "collection": {
+    "name": "AOBNL Collection",
+    "family": "AOBNL"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.supaimg.com/3275ef31-f0a4-4baf-97d6-a1741ebaa425.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "J42qZPEbrh7SPkg73tCWWNPu13dsqpBTGYDBUFrf7fAd",
+        "share": 100
+      }
+    ]
+  }
+}
